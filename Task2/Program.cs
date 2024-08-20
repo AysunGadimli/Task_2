@@ -1,9 +1,44 @@
-﻿namespace Task2;
+﻿using System.Security.Cryptography;
+
+namespace Task2;
 
 class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hell");
+       // a.Verilmish ededin menfi ve ya musbet oldugunu tapan algorithm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        //b.Verilmish ededin hem 3 - e hem de 7 - e tam bolunub bolunmediyini tapan algorithm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     }
 }
