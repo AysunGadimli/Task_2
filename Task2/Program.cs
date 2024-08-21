@@ -7,6 +7,8 @@ class Program
         // a.Verilmish ededin menfi ve ya musbet oldugunu tapan algorithm
 
 
+       
+
         int num = 7;
         if (num > 0)
         {
@@ -18,6 +20,7 @@ class Program
         }
 
 
+       
 
         int num2 = -7;
         if (num < 0)
@@ -33,8 +36,9 @@ class Program
 
         //b.Verilmish ededin hem 3 - e hem de 7 - e tam bolunub bolunmediyini tapan algorithm
 
-
-        int num3 = 21;
+       
+        
+          int num3 = -21;
         if (num3 % 3==0 && num3 % 7==0)   
         {
             Console.WriteLine("tam bolunur");
@@ -43,6 +47,11 @@ class Program
         {
             Console.WriteLine("tam bolunmur");
         }
-
+        
     }
+
+
+
+  
+
 }
